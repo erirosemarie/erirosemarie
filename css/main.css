@@ -2948,3 +2948,10 @@ h6 {
 .switch-wrap p {
   margin: 0;
 }
+
+#footer {
+  position: absolute;
+  bottom: 0px;
+  width: 100%;
+  text-align: center;
+}
